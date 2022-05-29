@@ -9,6 +9,6 @@ padika.dev sitesindeki veri yapıları ve algoritma ders serisinin binary search
      
     1     6       9
     
- 0     3     
+ 0       3     
  
      2     4
